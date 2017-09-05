@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author lenovo
+ * @autores: Mateo Pacheco - cpachecof@unal.edu.co / Aldo Marquez - @unal.edu.co / Juan Esteban Muñoz - jemunozva@unal.edu.co
  */
 public class Tienda {
     private ArrayList<Carro> Carros;

@@ -7,7 +7,7 @@ package proyecto.lab;
 
 /**
  *
- * @author lenovo
+ * @autores: Mateo Pacheco - cpachecof@unal.edu.co / Aldo Marquez - @unal.edu.co / Juan Esteban Muñoz - jemunozva@unal.edu.co
  */
 public class Model_Carro {
     private String Numero_Modelo;

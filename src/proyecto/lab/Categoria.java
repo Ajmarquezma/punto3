@@ -7,7 +7,7 @@ package proyecto.lab;
 
 /**
  *
- * @author lenovo
+ * @autores: Mateo Pacheco - cpachecof@unal.edu.co / Aldo Marquez - @unal.edu.co / Juan Esteban Muñoz - jemunozva@unal.edu.co
  */
 public class Categoria {
     private String Nombre;

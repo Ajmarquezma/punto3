@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author lenovo
+ * @autores: Mateo Pacheco - cpachecof@unal.edu.co / Aldo Marquez - @unal.edu.co / Juan Esteban Muñoz - jemunozva@unal.edu.co
  */
 public class ProyectoLab {
 
